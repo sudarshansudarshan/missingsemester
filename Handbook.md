@@ -24,13 +24,10 @@ TBA
 
 # Introduction
 
-<p style="text-align: justify;">
 The missing semester is a student driven initiative to conduct lecture sessions by inviting experts to handle topics of interest to freshers. The two point purpose of missing semesster is : 
-1. The Btech programme tends to assume skillsets that are either assumed to be obvious or assumed that the students will self-teach themselves on the fly.  
-2. While the Btech curriculum is exhaustive and you will be taken on a detailed excursion on some of the beautiful ideas in the subject
-</p>
+1. To cover some of the most important tools to be an effective learner.
+2. To cover some of the cool ideas without subjecting anyone to the academic pressures of test/assignment/exams. 
 
-# Expectations from the course
 
 <p style="text-align: justify;">
 We emphasize a skill-based approach, which allows students to develop a deep understanding of the subject matter without resorting to rote memorization. The key to building confidence and proficiency in this subject lies in consistent practice; there are no shortcuts to mastering the art of problem-solving. To ensure your success, we strongly encourage regular attendance and active participation in class, as well as diligent preparation for tests and quizzes.
