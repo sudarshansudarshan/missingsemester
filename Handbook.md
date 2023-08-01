@@ -51,6 +51,7 @@ You are gauranteed to get a grade based on your absolute total as described belo
 | 60 - 69      | 5            |
 | 50 - 59      | 4            |
 |  0 - 49      | 3            |
+|-----------------------------|
 
 <p style="text-align: justify;">
 The grading will be absolute by default, but if the health of the class goes above 80, we will grade the class based on relative as well as absolute and consider the best of two.  
