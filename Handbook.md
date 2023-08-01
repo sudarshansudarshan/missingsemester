@@ -25,6 +25,7 @@ TBA
 # Introduction
 
 <p style="text-align: justify;">
+The missing semester is a student driven initiative to 
 </p>
 
 
