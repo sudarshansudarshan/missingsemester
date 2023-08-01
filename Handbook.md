@@ -29,7 +29,7 @@ The missing semester is a student driven initiative to conduct lecture sessions 
 2. To cover some of the cool ideas without subjecting anyone to the academic pressures of test/assignment/exams. 
 
 # Brain Teasers
-The class will comprise of several concepts, details of which will be present in the journey database. Your mentors will help you understand these concepts in detail. 
+The class will comprise of several concepts, details of which will be present in the [journey](/missingsemester/journey/) database. Your mentors will help you understand these concepts in detail. 
 
 # Mentorship
 
