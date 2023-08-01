@@ -10,5 +10,5 @@ function commit() {
 while true  
 do
 commit
-sleep 60
+sleep 360
 done
