@@ -12,19 +12,19 @@ toc: true
 
 | Name                      | Email                     |
 | -------------------------| -------------------------|
-| S. R. Sudarshan Iyengar (Instructor)  | sudarshan@iitrpr.ac.in    |
-| Piyush (TA) | 2022aim1008@iitrpr.ac.in |
-| Rajtilak (TA)    | 2022aim1010@iitrpr.ac.in |
+| Umesh | |
+| Jignesh | |
+| Sankalp | |
+| Arav | |
+| Utkarsh| |
 | -------------------------| -------------------------|
 
 # Class Timings
-- **Wednesday**, **Thursday**, **Friday**
-  - 1500 - 1550 hrs
+TBA
 
 # Introduction
 
 <p style="text-align: justify;">
-This course is a gentle introduction to the mathematical preliminaries for modern computing. Some of the ideas in machine learning involves ideas from subjects such as linear algebra, probability and multivariate calculus. Although these topics are covered in undergraduate math courses in Indian Universities. Emphasis is more on problem solving than developing the required theory and intuition, which is crucial to understand some of the modern applications. The course is aimed at empowering a students with the required arsenal for understnading machine learning, artificial intelligence, computer vision with ease. 
 </p>
 
 
