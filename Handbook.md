@@ -29,8 +29,10 @@ The missing semester is a student driven initiative to conduct lecture sessions 
 2. To cover some of the cool ideas without subjecting anyone to the academic pressures of test/assignment/exams. 
 
 # Brain Teasers
-The class will comprise of several concepts, details of which will be present in the journey database. 
+The class will comprise of several concepts, details of which will be present in the journey database. Your mentors will help you understand these concepts in detail. 
 
 # Mentorship
 
 To facilitate accelerated learning, we will be dividing all the students into 6 groups. Each group will be headed by a mentor who will be a senior Btech CSE student. The student will help you finish the Brain Teasers on time and will make the journey fun, rewarding and engaging. 
+
+
