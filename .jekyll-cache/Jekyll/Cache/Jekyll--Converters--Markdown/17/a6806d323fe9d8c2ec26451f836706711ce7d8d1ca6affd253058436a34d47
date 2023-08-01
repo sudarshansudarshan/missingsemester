@@ -1,0 +1,47 @@
+I"™<table>
+  <tbody>
+    <tr>
+      <td>Lecture 1</td>
+      <td>Introduction Class + Graph Theory</td>
+      <td><a href="https://www.youtube.com/watch?v=ukOOZfCJo3U">Link to the Classroom Lecture</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<h1 id="graphs">Graphs</h1>
+<p>We introduced the idea of Graphs.</p>
+<div class="embed-container">
+  <iframe src="https://www.youtube.com/embed/-peAUmrm4RM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+</div>
+<p>.</p>
+
+<h1 id="handshaking-lemma">Handshaking Lemma</h1>
+<p>We spoke about handshakes in the classroom and how we can model it using Graphs.</p>
+<div class="embed-container">
+  <iframe src="https://www.youtube.com/embed/szOGC5OxJBY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+</div>
+<p>By degree, we mean the number of lines that are adjacent on a point, or simply speaking, the number of friends that a person keeps</p>
+
+<h1 id="isomorphic-graphs">Isomorphic Graphs</h1>
+<p>We saw how two graphs that are appearingly different can actually be the same.</p>
+
+<ol>
+  <li>
+    <p><strong>Quiz</strong>: Are the following two graphs the same?<br />
+<img src="/discretemath/assets/images/c5.png" alt="C5" width="200" height="200" />
+<img src="/discretemath/assets/images/star.png" alt="Star" width="200" height="200" /></p>
+  </li>
+  <li>
+    <p><strong>Test</strong>: Are the following two graphs the same?<br />
+<img src="/discretemath/assets/images/10node_labelled.png" alt="C5" width="200" height="200" />
+<img src="/discretemath/assets/images/10node_unlabelled.png" alt="Star" width="200" height="200" /></p>
+  </li>
+  <li>
+    <p><strong>Quiz</strong>: Understand how the graphs as illustrated in the lecture (<a href="https://youtu.be/ukOOZfCJo3U?t=2607">link</a>), are not isomorphic. Why? Google for Petersen Graph for some fun reading.</p>
+  </li>
+  <li>
+    <p><strong>Test</strong>: If you are given two graphs on 100 nodes, how can one write a piece of code to find out if these two graphs are the same or not? What is the complexity involved in finding this out?</p>
+  </li>
+</ol>
+
+:ET

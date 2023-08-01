@@ -1,0 +1,54 @@
+I"†<p>The following syllabus will be covered as part of this course. The syllabus is just for reference. We will be covering The approach was exploraratory and case study based. We used inuition in place of abstraction. By the end of the course, the students were able to get the right intuition for the importance of probability, linear algebra and calculus in data science related applications. The students will now be ready to take up hardcore math ideas in ML/AI/DS.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Sl. No.</th>
+      <th>Topic</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>Introduction to Mathematical Thinking.</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Function, Series, Proofs and Mathematical Abstraction.</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Working knowledge of Probability and Calculus with a couple of case studies: Birthday Paradox &amp; Analysing the Median Finding method.</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Linear Algebra: Importance and Definitions.</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Linear Algebra: Linear Independence, Dependence, Basis, Span, Matrix as a transformation, inverse, determinants, rectangular matrices.</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Linear Algebra: Geometrical Interpretation with Geogebra.</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>The idea of Least Squares and Gradient Descent.</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>Case Study: Understanding Pagerank (Probability and Linear Algebra, an Interplay).</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Case study: Understanding probabilty by breaking a well known cipher.</td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>Applications through case studies: Noise removal in a big dataset, Recommender systems, Lossy data compression, Dimensionality reduction (intuition).</td>
+    </tr>
+  </tbody>
+</table>
+
+:ET

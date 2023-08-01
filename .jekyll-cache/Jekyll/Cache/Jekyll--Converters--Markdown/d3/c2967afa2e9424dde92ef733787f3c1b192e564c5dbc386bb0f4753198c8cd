@@ -1,0 +1,23 @@
+I"b<table>
+  <tbody>
+    <tr>
+      <td>Lecture 2</td>
+      <td>Basics of Graph Theory</td>
+      <td><a href="https://www.youtube.com/watch?v=vlSEcWxXTnI">Link to the Classroom Lecture</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<ol>
+  <li>
+    <p>Show that in any graph the total number of vertices with odd degree is even.</p>
+  </li>
+  <li>
+    <p>We revisit the question of isomorphic graphs. Give an example of two graphs with the same degree sequence but are not the same.</p>
+  </li>
+  <li>
+    <p>Show that at any party, there is a pair of people who have shook the same number of hands.</p>
+  </li>
+</ol>
+
+:ET

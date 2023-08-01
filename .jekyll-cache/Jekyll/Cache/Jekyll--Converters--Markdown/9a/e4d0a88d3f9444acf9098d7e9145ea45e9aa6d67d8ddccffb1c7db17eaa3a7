@@ -1,0 +1,79 @@
+I"ª<ul id="markdown-toc">
+  <li><a href="#1-birthday-paradox" id="markdown-toc-1-birthday-paradox">1. Birthday Paradox</a></li>
+  <li><a href="#2-finding-sqrt-10" id="markdown-toc-2-finding-sqrt-10">2. Finding \(\sqrt 10\)</a></li>
+  <li><a href="#3-finding-gcd" id="markdown-toc-3-finding-gcd">3. Finding GCD</a></li>
+</ul>
+
+<h3 id="1-birthday-paradox">1. Birthday Paradox</h3>
+<p>Given a bunch of 30 students in a class, there is a high chance that you have 2 people with the same birthday. Instead of 30, if the class has n students, what are the chances that you will find two people with the same birthday?</p>
+
+<blockquote>
+  <p>Try writing a piece of python code which plots the probability Vs n</p>
+</blockquote>
+
+<p>We observe that the probability of we not having two people with the same birthday in a class of \(n\) people is given by :</p>
+
+\[\frac{365}{365}.\frac{364}{365}.\frac{363}{365}\cdots \frac{(365-n)}{365}\]
+
+<p>(There is a minor error in the above product. Can you identify?)</p>
+
+<p>Let us call this \(f(n)\).</p>
+
+\[f(n)=\left({1-\frac{0}{365}}\right).\left({1-\frac{1}{365}}\right).\left({1-\frac{2}{365}}\right)... \left({1-\frac{n}{365}} \right)\]
+
+<p>We know that \(\left( 1-x\right)\approx e^{-x}\)</p>
+
+<p>Therefore,</p>
+
+\[f(n) \approx e^{\frac{-1}{365}}.e^{\frac{-2}{365}}.e^{\frac{-3}{365}}...e^{\frac{-n}{365}}\]
+
+\[f(n)\approx e^{\frac{-n(n+1)/2}{365}}\]
+
+<p>This simply tells us that for around 50 students in a class
+\(f(50)\approx e^{\frac{-50(51)/2}{365}}=0.03\)</p>
+
+<p>The probability of we finding two people with the same birthday is \(0.97\)</p>
+
+<ul>
+  <li>Can you observe this empirically for 50 students? is the probability of success 0.97?</li>
+  <li>Can you think of some application of this idea?</li>
+  <li>When you put 50 balls in 365 baskets, uniformly at random, do you think that you can surely find a basket with atleast 2 balls?</li>
+  <li>What do you have to say about birthday paradoxâ€™s relevance on planet Neptune where one year comprises of 60,000 days :-) ?</li>
+</ul>
+
+<h3 id="2-finding-sqrt-10">2. Finding \(\sqrt 10\)</h3>
+
+<p>Finding square root of 10 is equivalent to finding the root of the equation</p>
+
+\[x^2 - 10 =0\]
+
+<p>Note that one can observe that the root lies between 3 and 4, simply because considering \(f(x) = x^2 - 10\), \(f(3)&lt;0\) and \(f(4)&gt;0\).</p>
+
+<p>This means the answer lies between 3 and 4.</p>
+
+<p>One can further observe that the root lies between 3 and 3.5 and not between 3.5 and 4.</p>
+
+<p>We can keep reducing the size of the interval this way.</p>
+
+<p>Everytime, we reduce the interval by half.</p>
+
+<p>It is easy to see that we can find the value of \(\sqrt{10}\) with increased accuracy with time.</p>
+
+<p><strong>Observe: The rate at which we converge to the answer is logarithmic (why?)</strong></p>
+
+<h3 id="3-finding-gcd">3. Finding GCD</h3>
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">def</span> <span class="nf">gcd</span><span class="p">(</span><span class="n">a</span><span class="p">,</span><span class="n">b</span><span class="p">):</span>
+	<span class="k">if</span> <span class="p">(</span><span class="n">a</span><span class="o">&lt;</span><span class="n">b</span><span class="p">):</span>
+		<span class="k">return</span> <span class="n">gcd</span><span class="p">(</span><span class="n">b</span><span class="p">,</span><span class="n">a</span><span class="p">)</span>
+	<span class="k">else</span><span class="p">:</span>
+		<span class="k">if</span> <span class="p">(</span><span class="n">b</span><span class="o">==</span><span class="mi">0</span><span class="p">):</span>
+			<span class="k">return</span> <span class="n">a</span>
+		<span class="k">else</span><span class="p">:</span>
+			<span class="k">return</span> <span class="n">gcd</span><span class="p">(</span><span class="n">b</span><span class="p">,</span><span class="n">a</span><span class="o">%</span><span class="n">b</span><span class="p">)</span>
+</code></pre></div></div>
+
+<p>Note that the above snippet of code finds the GCD of two numbers in lightening speed. It only takes logarithm in the \(min(a,b)\).</p>
+
+<p><strong>Reason: Every step leads to a reduction in one of the numbers by half</strong></p>
+
+:ET
