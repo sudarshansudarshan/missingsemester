@@ -34,7 +34,7 @@ header_pages:
   - Journey.md
 
 markdown: kramdown
-title: CS526 Mathematical Foundations
+title: CS9.75 The Missing Semester
 email: sudarshan@iitrpr.ac.in
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
