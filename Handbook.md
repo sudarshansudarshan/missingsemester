@@ -26,7 +26,7 @@ TBA
 
 <p style="text-align: justify;">
 The missing semester is a student driven initiative to conduct lecture sessions by inviting experts to handle topics of interest to freshers. The two point purpose of missing semesster is : 
-1. The Btech programme tends to assume skillset that is either assumed to be obvious or assumed that the student will self-teach on the fly.  
+1. The Btech programme tends to assume skillsets that are either assumed to be obvious or assumed that the student will self-teach on the fly.  
 </p>
 
 # Expectations from the course
