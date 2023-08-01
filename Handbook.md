@@ -25,9 +25,9 @@ TBA
 # Introduction
 
 <p style="text-align: justify;">
-The missing semester is a student driven initiative to 
+The missing semester is a student driven initiative to conduct lecture sessions by inviting experts to handle topics of interest to freshers. The two point purpose of missing semesster is : 
+1.      
 </p>
-
 
 # Expectations from the course
 
