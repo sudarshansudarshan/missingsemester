@@ -5,7 +5,7 @@
 layout: home
 ---
 
-This is a homepage for the missing semester course for the Btech students across all branches. The first phase will involve training the CS and AI branch students and the next phase will involve more branches. An important document is the [handbook](/mathematicalfoundations/handbook/). Ensure that you read this document completely. Note that the [FAQ](/discretemath/faq/) section will keep growing, make sure you look it up once in a while.  
+This is a homepage for the missing semester course for the Btech students across all branches. The first phase will involve training the CS and AI branch students. In a couple of weeks, we will also reach out to the other branch students if they are interested. An important document is the [handbook](/mathematicalfoundations/handbook/). Ensure that you read this document completely. Note that the [FAQ](/discretemath/faq/) section will keep growing, make sure you look it up once in a while.  
 
 **News**
 -  1 Aug: The website for the missing semester is up.
