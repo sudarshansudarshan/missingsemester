@@ -6,5 +6,6 @@ categories: Lectures
 permalink: /L1
 ---
 
-
+1. The Birthday Challenge and its illustration using a simple program.
+2. When I throw 100 chocolates at 100 students randomly, how many of you will not get a chocolate? Can we simulate and see this?
 
