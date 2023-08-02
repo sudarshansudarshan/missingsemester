@@ -12,11 +12,12 @@ toc: true
 
 | Name                      | Email                     |
 | -------------------------| -------------------------|
-| Umesh | |
-| Jignesh | |
-| Sankalp | |
-| Arav | |
-| Utkarsh| |
+| Umesh | 2022csb1139@iitrpr.ac.in |
+| Jignesh | 2021mcb1181@iitrpr.ac.in |
+| Sankalp | 2022csb1137@iitrpr.ac.in |
+| Arav | 
+| Utkarsh | 2022csb1140@iitrpr.ac.in |
+| Satvik | 2022csb1120@iitrpr.ac.in |
 | -------------------------| -------------------------|
 
 # Class Timings
